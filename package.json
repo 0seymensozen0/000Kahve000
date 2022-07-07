@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "generate-password": "^1.4.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-opus": "^0.3.3",
     "opusscript": "0.0.7",
     "parse-ms": "^2.1.0",
